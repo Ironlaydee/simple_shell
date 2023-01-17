@@ -2,8 +2,8 @@
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
 * CONTRIBUTORS
-	* Aitebiremen Okojie
-	* Samuel Iyebhora <sammykingx>.
+	* ADedolapo Adefaye 
+	* Onogwu Wisdom
 
 ## Description
 A simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
@@ -39,5 +39,5 @@ Our shell has support for the following built-in commands:
 
 ## Credits
 All code written by:
-* AITEBIREMEN OKOJIE
-* SAMUEL IYEBHORA <sammykingx>.
+* ADEDOLAPO ADEFAYE 
+* ONOGWU WISDOM
