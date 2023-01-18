@@ -4,7 +4,7 @@
 * CONTRIBUTORS
 	* Adedolapo Adefaye 
 	* Onogwu Wisdom
-
+         * Mc Williams
 ## Description
 A simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
@@ -41,3 +41,6 @@ Our shell has support for the following built-in commands:
 All code written by:
 * ADEDOLAPO ADEFAYE 
 * ONOGWU WISDOM
+* TEMILOLUWA 
+* MC WILLIAMS
+* TECHIFIED
